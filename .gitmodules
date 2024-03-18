@@ -1,0 +1,3 @@
+[submodule "sounbox-project"]
+	path = sounbox-project
+	url = https://github.com/csilvamarq/sounbox-project
