@@ -1,9 +1,9 @@
 [submodule "sounbox-project"]
 	path = sounbox-project
 	url = https://github.com/csilvamarq/sounbox-project
-[submodule "llama-gpt"]
-	path = llama-gpt
-	url = https://github.com/getumbrel/llama-gpt
 [submodule "LibreTranslate"]
 	path = LibreTranslate
 	url = https://github.com/LibreTranslate/LibreTranslate
+[submodule "llama-gpt"]
+	path = llama-gpt
+	url = https://github.com/getumbrel/llama-gpt
